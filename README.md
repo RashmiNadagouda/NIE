@@ -1,2 +1,0 @@
-# NIE
-aws related 
